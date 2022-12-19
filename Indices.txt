@@ -1,0 +1,29 @@
+Avg min between sent tnx: Average time between sent transactions for account in minutes
+
+Avgminbetweenreceivedtnx: Average time between received transactions for account in minutes
+
+TimeDiffbetweenfirstand_last(Mins): Time difference between the first and last transaction
+
+Sent_tnx: Total number of sent normal transactions
+
+Received_tnx: Total number of received normal transactions
+
+NumberofCreated_Contracts: Total Number of created contract transactions
+
+UniqueReceivedFrom_Addresses: Total Unique addresses from which account received transactions
+
+UniqueSentTo_Addresses20: Total Unique addresses from which account sent transactions
+
+MinValueReceived: Minimum value in Ether ever received
+
+MaxValueReceived: Maximum value in Ether ever received
+
+AvgValueReceived5Average value in Ether ever received
+
+MinValSent: Minimum value of Ether ever sent
+
+MaxValSent: Maximum value of Ether ever sent
+
+AvgValSent: Average value of Ether ever sent
+
+Flag: Fraud or Not?
